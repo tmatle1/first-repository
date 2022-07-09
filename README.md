@@ -1,2 +1,2 @@
 # first-repository
-My first reposiroty
+Added Read Me file in the code
